@@ -1,2 +1,2 @@
-# demo
-8/22
+# Demo
+Git practice
